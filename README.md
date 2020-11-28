@@ -1,2 +1,1 @@
-# learning
-Symfony Learning Course
+# Learning
