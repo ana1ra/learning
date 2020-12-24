@@ -1,4 +1,4 @@
-FROM php:7.4.12-fpm-buster
+FROM php:8.0.0-fpm-buster
 
 RUN mkdir -p /home/backend
 WORKDIR /home/backend
